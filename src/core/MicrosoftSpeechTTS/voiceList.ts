@@ -161,6 +161,7 @@ const azureVoiceList = {
     'zh-CN-XiaoyanNeural',
     'zh-CN-XiaomoNeural',
   ],
+  'so-SO': ["so-SO-UbaxNeural"],
   'zh-TW': ['zh-TW-HsiaoChenNeural', 'zh-TW-HsiaoYuNeural', 'zh-TW-YunJheNeural'],
 } as const;
 
