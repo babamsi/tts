@@ -28,6 +28,7 @@ export default {
     'zh-CN-YunxiaNeural',
     'zh-CN-YunyangNeural',
   ],
+  'so-SO': ["so-SO-UbaxNeural"],
 
   'zh-TW': ['zh-TW-HsiaoChenNeural', 'zh-TW-YunJheNeural', 'zh-TW-HsiaoYuNeural'],
 } as const;
